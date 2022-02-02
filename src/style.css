@@ -1,0 +1,10 @@
+.ajout_container, .search_container {
+    display: flex;
+    width: 500px;
+    justify-content: space-evenly;
+}
+
+.btn_supp {
+    background-color: red;
+    color : white;
+}
